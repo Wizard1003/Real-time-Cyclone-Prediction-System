@@ -5,4 +5,6 @@ Built with Streamlit, Plotly, and the Tomorrow.io API, this system fetches live 
 
 # To run this code:
 pip install streamlit requests pandas numpy plotly scikit-learn
+
 streamlit run app.py
+
